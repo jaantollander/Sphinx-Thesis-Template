@@ -4,8 +4,8 @@ Thesis Template
 
    * - Description
      - File
-   * - Master's Thesis
-     - `thesis.pdf <docs/_build/latex/thesis.pdf>`_
+   * - Thesis Template
+     - `thesis.pdf <thesis.pdf>`_
 
 
 License
