@@ -1,4 +1,4 @@
-Master's Thesis
+Thesis Template
 ===============
 .. list-table::
 
